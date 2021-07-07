@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    driverClassName: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://localhost:3307/webserver
+    username: root
+    password: passq1W@E#
+
